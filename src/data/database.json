@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "year": "2022",
+        "month": "Luty",
+        "title": "Destinies",
+        "img": "./img/destinies.png",
+        "stock": true,
+        "premiere": true
+    },
+    {
+        "id": 2,
+        "year": "2022",
+        "month": "Lipiec",
+        "title": "Dominion",
+        "img": "./img/dominion.png",
+        "stock": true,
+        "premiere": true
+    },
+    {
+        "id": 3,
+        "year": "2021",
+        "month": "Listopad",
+        "title": "Bór",
+        "img": "./img/bor.png",
+        "stock": true,
+        "premiere": true
+    },
+    {
+        "id": 4,
+        "year": "2021",
+        "month": "Maj",
+        "title": "Star Wars: Rebelia",
+        "img": "./img/star.png",
+        "stock": true,
+        "premiere": true
+    },
+    {
+        "id": 5,
+        "year": "2022",
+        "month": "Maj",
+        "title": "Małe epickie podziemia",
+        "img": "./img/male.png",
+        "stock": true,
+        "premiere": true
+    },
+    {
+        "id": 6,
+        "year": "2021",
+        "month": "Styczeń",
+        "title": "Scythe",
+        "img": "./img/scythe.png",
+        "stock": true,
+        "premiere": true
+    },
+    {
+        "id": 7,
+        "year": "2022",
+        "month": "Luty",
+        "title": "Frostpunk",
+        "img": "./img/frostpunk.png",
+        "stock": true,
+        "premiere": true
+    },
+    {
+        "id": 8,
+        "year": "2021",
+        "month": "Czerwiec",
+        "title": "Nemesis",
+        "img": "./img/nemesis.png",
+        "stock": true,
+        "premiere": true
+    },
+    {
+        "id": 9,
+        "year": "2021",
+        "month": "Marzec",
+        "title": "Gloomhaven",
+        "img": "./img/gloomhaven.png",
+        "stock": true,
+        "premiere": true
+    },
+    {
+        "id": 10,
+        "year": "2021",
+        "month": "Kwiecień",
+        "title": "Projekt Gaja",
+        "img": "./img/gaja.png",
+        "stock": true,
+        "premiere": true
+    }
+
+]
